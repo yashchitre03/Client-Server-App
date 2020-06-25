@@ -1,0 +1,10 @@
+<resources>
+<string-array
+    name="name">
+    <item>All That</item>
+    <item>BadAss</item>
+    <item>Moose</item>
+    <item>Endless Motion</item>
+    <item>Dubstep</item>
+</string-array>
+</resources>
