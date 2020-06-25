@@ -11,7 +11,7 @@ Refer:
 
 ​	Following screenshots show the User Interface from the client application and notification.
 
-<img src="https://github.com/yashchitre03/Android-Fragments-and-Permissions/blob/master/portrait_1.png" alt="alt text" width="288" height="576">
+<img src="https://github.com/yashchitre03/Client-Server-App/blob/master/client_1.png" alt="alt text" width="288" height="576">
 
 #### Application before starting the service
 
@@ -19,7 +19,7 @@ Refer:
 
 -----------------------
 
-<img src="https://github.com/yashchitre03/Android-Fragments-and-Permissions/blob/master/portrait_2.png" alt="alt text" width="288" height="576">
+<img src="https://github.com/yashchitre03/Client-Server-App/blob/master/client_2.png" alt="alt text" width="288" height="576">
 
 #### Application showing song options
 
@@ -27,6 +27,6 @@ Refer:
 
 ---------------------------------------
 
-<img src="https://github.com/yashchitre03/Android-Fragments-and-Permissions/blob/master/landscape_fragments.png" alt="alt text" width="288" height="576">
+<img src="https://github.com/yashchitre03/Client-Server-App/blob/master/server_notif.png" alt="alt text" width="288" height="576">
 
 #### Notification if a song is playing
